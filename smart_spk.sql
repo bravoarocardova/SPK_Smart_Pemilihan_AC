@@ -223,7 +223,7 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `username`, `pass`) VALUES
-(1, 'admin', '*4ACFE3202A5FF5CF467898FC58AAB1D615029441');
+(1, 'admin', '21232f297a57a5a743894a0e4a801fc3');
 
 --
 -- Indexes for dumped tables
